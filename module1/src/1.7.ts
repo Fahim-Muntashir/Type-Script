@@ -1,0 +1,9 @@
+{
+
+    
+    const poorUser = {
+        name:
+    }
+
+
+}
