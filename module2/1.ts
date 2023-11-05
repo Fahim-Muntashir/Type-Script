@@ -28,6 +28,16 @@
     const result2 = kgToGm('1000') as string;
     
 
+    type CustomError = {
+        message:string
+    }
+
+    try {
+        
+    } catch (error) {
+        console.log((error as CustomError).message);
+    }
+
 
 
 }
