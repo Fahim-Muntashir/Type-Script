@@ -4,7 +4,7 @@
     
 
 
-    class Parent {
+    class Person {
         name: string;
         age: number;
         address: string;
